@@ -1,0 +1,6 @@
+{
+  "name": "Muniz Confeitaria",
+  "description": "Um site interativo, elegante e extremamente moderno para a Muniz Confeitaria, incluindo o Ateliê Digital de Bolos e Caixas de Doces, além de uma assistente de IA para recomendações de eventos e integração completa com WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
